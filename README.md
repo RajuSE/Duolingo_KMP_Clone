@@ -4,4 +4,4 @@ This project is a clone of the popular language learning app Duolingo, built usi
 # Preview
 YouTube video
 
-[![Duoling KMP clone](https://i.ibb.co/cwZ28hv/Screenshot-2024-05-15-at-6-49-49-PM.png)](https://www.youtube.com/watch?v=ImGuVPpV4LY&t=17s)
+[![Duoling KMP clone](https://i.postimg.cc/2SP1JDcP/Screenshot-2024-05-15-at-6-49-49-PM.png)](https://www.youtube.com/watch?v=ImGuVPpV4LY&t=17s)
